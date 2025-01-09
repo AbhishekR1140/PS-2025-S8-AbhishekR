@@ -7,3 +7,5 @@
 
 <img src="docs/WhatsApp Image 2025-01-09 at 11.28.13_4348bef1.jpg" alt="Diagram" width="800" height="800">
 
+
+<img src="docs/WhatsApp Image 2025-01-09 at 11.28.13_ed8f79e8.jpgg" alt="Diagram" width="800" height="800">
