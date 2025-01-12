@@ -6,8 +6,7 @@
 
 - Finding current and resistivity in material
 - <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/8e6408a0-07bd-4d3a-b83d-36e1f8f5cb6d)
-">
+  <img src="![image](https://github.com/user-attachments/assets/8e6408a0-07bd-4d3a-b83d-36e1f8f5cb6d)">
 </p>
 
 <img src="docs/WhatsApp Image 2025-01-09 at 11.28.12_a9e2c784.jpg" alt="Diagram" width="800" height="800">
