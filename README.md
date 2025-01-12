@@ -1,7 +1,8 @@
 # PS-2025-S8-Abhishek
 ## This github repository about the foundation on mixed-signal vlsi design.
+## PASSIVE IC DEVICES
+### Here we cover basic prionciplkes behind passive IC devices: Resistors,Cpacitors and Inductors.
 
-## First Day
 - Finding current and resistivity in material
 
 <img src="docs/WhatsApp Image 2025-01-09 at 11.28.12_a9e2c784.jpg" alt="Diagram" width="800" height="800">
