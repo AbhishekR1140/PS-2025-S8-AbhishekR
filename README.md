@@ -1,4 +1,5 @@
 # PS-2025-S8-Abhishek
+## This github repository about the foundation on mixed-signal vlsi design.
 
 ## First Day
 - Finding current and resistivity in material
