@@ -138,5 +138,6 @@ $$=\frac{ 8.85 \times 10^{-12}  \times 100 \times 10^{-6} \times 1 \times10^{-6}
 - ![image](https://github.com/user-attachments/assets/08131eaf-4c4a-4d76-b19b-7e27a5bdc407)
 
   *ps-2*: [secondday capacitance.pdf](https://www.dropbox.com/scl/fi/hjrkndgx4u982u7d9e87i/day2-ps.pdf?rlkey=pe8y32gs2lkz8uo831cdsf12l&st=cempfqmy&dl=0)
+
  
  
